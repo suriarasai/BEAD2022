@@ -1,4 +1,4 @@
-# BEAD JAN 2022
+# BEAD 2022
 This module is part of the ISS MTech Graduate Certificate series. The module is common for both Graduate Certificate in Big Data Engineering & Web Analytics as well as Graduate Certificate in Engineering Big Data series offered by NUS-ISS. Workshops include both Spark Scala and PySpark examples.
 
 Participants will learn various aspects of data engineering while building data intensive applications. Participants will learn to apply key practices, identify multiple data sources appraised against their business value, design the right storage, and implement proper access model(s).  Finally, participants will build a scalable data pipeline solution composed of pluggable hadoop component architecture, based on the combination of requirements in a vendor/technology agnostic manner.  Participants will work with Spark framework and special processing libraries.
